@@ -1,2 +1,2 @@
 <?php
-echo "algo";
+echo "algo mas ";
