@@ -1,2 +1,3 @@
 <?php
-echo "sssHola manga de putos!!";
+echo "Hola manga de putos!!";
+echo "mas";
